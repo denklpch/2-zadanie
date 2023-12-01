@@ -1,0 +1,2 @@
+git config --global http.proxy http://dune%5CLogin:Password@192.168.40.21:8080
+git config --global http.sslVerify false
